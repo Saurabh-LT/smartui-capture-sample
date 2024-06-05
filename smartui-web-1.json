@@ -2,7 +2,6 @@
   "web": {
     "browsers": [
       "chrome",
-      "firefox",
       "safari",
       "edge"
     ],
